@@ -1,0 +1,8 @@
+{
+  "appId": "no.uia.sound_studio_assistant",
+  "appName": "Sound Studio Assistant",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
